@@ -6,7 +6,7 @@ sudo su
 ```
 
 ```sh
- nixos-generate-config
+nixos-generate-config
 ```
 
 ```sh
@@ -37,7 +37,7 @@ cd nixos-config/etc/nixos
 ```
 
 ```sh
-mw configuration.nix ~/etc/nixos
+mv configuration.nix ~/etc/nixos
 ```
 
 - Build ur new DE
