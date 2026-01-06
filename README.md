@@ -6,10 +6,6 @@ sudo su
 ```
 
 ```sh
-nixos-generate-config
-```
-
-```sh
 nix-env git --install
 ```
 
