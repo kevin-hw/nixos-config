@@ -1,5 +1,5 @@
-# This is my config for NixOs using Gnome + Cosmic desktop environments
-So I am using only configuration.nix
+## This is my config for NixOs using Gnome + Cosmic desktop environments
+# So I am using only configuration.nix
 
 ```sh
 sudo su
@@ -45,4 +45,4 @@ mw configuration.nix ~/etc/nixos
 nixos-rebuild switch
 ```
 
-#Congrats
+### Congrats!
