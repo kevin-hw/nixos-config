@@ -45,4 +45,4 @@ mw configuration.nix ~/etc/nixos
 nixos-rebuild switch
 ```
 
-### Congrats!
+# Congrats!
