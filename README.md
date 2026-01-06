@@ -3,6 +3,7 @@ So I am using only configuration.nix
 
 ```sh
 sudo su
+```
 
 ```sh
  nixos-generate-config
