@@ -11,7 +11,7 @@ nix-env git --install
 ```
 
 ```sh
-git clone github.com/kevin-hw/nixos-config
+git clone github.com/walway/nixos-config
 ```
 
 - Here u need to delete generated configuration.nix
